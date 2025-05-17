@@ -1,0 +1,46 @@
+What Is Cerberus Content Management System ?
+Cerberus Content Management System is a dynamic, secure and infinitely expandable Content Management System that is designed after a Unix-Like model with a modular and monolithic Unix Kernel-Like indexer. The web application software project is named after the 3-headed Hound of Hades in Greek Mythology.
+
+It is a custom written Web Application Framework ( W.A.F. ) with an ultra consistent and custom written Pre-Hyper-Text-Post-Processor Programming Code Framework ( P.C.F. ). This Web Application Software Project' aim is to be the fastest and most secure Web Application Framework, Web Application Programming Code Framework, Text, Voice and Video Communications Platform and Content Management System in the world.
+
+The latest project version is programmed with the Pre-Hyper-Text-Post-Processor P.D.O. // P.H.P. Data Objects Driver Programming Code Statements that enables it to work on any Database Management System Server: MySQL Database, Maria Database, MicrosoftSQL Database, MiniSQL Database and More.
+
+This Web Application Software Project is 100% Free and is also 100% Open Source where the user can view, check and read the source programming code of every instance of it installed on a web server directly from the web browser itself.
+
+Cerberus Content Management System was thought up and invented by Gary Christopher Edwards Johnson ( Immanuel ) of Oildale / Rosedale, Kern County, Southern California, U.S.A. in the year: ~2000. This web application software project is one of 21 unique software projects created by: Gary Christopher Edwards Johnson ( Immanuel ) of Oildale / Rosedale, Kern County, Southern California, U.S.A.
+
+Official Web Server — Blue Raven Feather, S.P.
+* https://www.BlueRavenFeather.com
+
+Official Web Server — Cerberus Content Management System
+* https://www.CerberusCMS.com
+
+Official Twitter — Blue Raven Feather, S.P.
+* https://www.Twitter.com/BlueRavenSP
+
+Official Twitter — Cerberus Content Management System
+* https://www.Twitter.com/OfficialCCMS
+
+Official Twitter — CerberusCMS, Version Number: 5
+* https://www.Twitter.com/CerberusCMS5
+
+Official Twitter — CerberusCMS, Version Number: 6
+* https://www.Twitter.com/CerberusCMS6
+
+Official GITHub — Blue Raven Feather, S.P.
+* https://www.GITHub.com/BlueRavenFeather
+
+Official GITHub Project — CerberusCMS
+* https://www.GITHub.com/OfficialCerberusCMS
+
+Official GITHub Project — CerberusCMS, Version Number: 5
+* https://www.GITHub.com/CerberusCMS5
+
+Official GITHub Project — CerberusCMS, Version Number: 6
+* https://www.GITHub.com/CerberusCMS6
+
+Official SourceForge Project Page — CerberusCMS 5
+* https://www.SourceForge.net/projects/cerberuscms5
+
+Official SourceForge Project Page — CerberusCMS 6
+* https://www.SourceForge.net/projects/cerberuscms6
