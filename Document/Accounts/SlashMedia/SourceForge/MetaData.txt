@@ -1,0 +1,98 @@
+Cerberus Content Management System is a dynamic, secure and infinitely expandable CMS designed after a Unix-Like model complete with a Unix-Like Kernel File named: Cerberus. It is a custom written Web Application Framework ( W.A.F. ) with a consistent and custom written Pre-Hyper-Text-Post-Processor Programming Code Framework ( P.C.F. ). This Web Application Software Project' aim is to be the fastest and most secure Web Application Framework, Web Application Programming Code Framework, Text, Voice and Video Communications Platform and Content Management System in the world.
+
+The latest project version is programmed with the Pre-Hyper-Text-Post-Processor P.D.O. // P.H.P. Data Objects Driver Programming Code Statements that enables it to work on any Database Management System Server: MySQL Database, Maria Database, MicrosoftSQL Database, MiniSQL Database and More..
+
+Recommended Web Server OS and Private OS: FreeBSD Unix
+
+Continuation From @CerberusCMS, @CerberusCMS5
+
+Features
+~ PROGRAMMING CODE FEATURES
+100% Hand Written Programming Code
+Written In 100% Pure Pre-Hyper-Text-Post-Processor Programming Code and HTML5 Scripting Code
+Extremely Consistent, Organized and Professional Custom Made Programming Code Framework
+~250,000 Lines of Extremely Searchable, Organized and Thoroughly Documented Pure Pre-HyperText-Post-Processor Programming Code
+Completely Unique Programming Code Variable Naming System For All Variables Across The System
+Hardware Resource Minimalistic: All Programming Code Functions Are Instantly Killed Upon Completion With Kill(); and Die(); Upon End of Every Kernel File Parsing In Every Instance
+~ PROGRAMMING CODE ARCHITECTURE FEATURES
+100% Custom Written Programming Code Architecture Modeled After The Unix Kernel and The Linux Kernel
+Infinitely Adaptable To All New Pre-Hyper-Text-Post-Processor Versions Due To The Extremely Redundant Programming Style and The Primary Use of Basic Programming Code Functions
+
+~ SECURITY FEATURES
+100% Secure From All S.Q.L. Injection Techniques, X.S.S. Injection Techniques, Buffer Overflow Techniques Through The Master Sanitization Module
+100% Open Source Programming Code Where Even The Source Programming Code of The Entire System Can Be Seen From The Web Browser Itself
+100% Transparent Source Pre-HyperText-Post-Processor Programming Code Viewable Directly From The Web Browser
+Extremely Secure / Non-Exploitable HTTP REQUEST, HTTP GET AND HTTP POST Data Sanitization and Data Filtering System With Disabled: HTTP PUT
+Encrypted and Clear-Text: Text, Video and Voice Communications
+Expert Data Cache Evasion Programming To Escape Cached MITM Servers By Using Randomly Generated URL Strings
+Secure Access Level and Access Level Permissions System For All Application Modules and Application Panels
+Smart Phone Device Sensor: Gravity, Acceleration, Linear Acceleration and Direction Logging
+Custom Watermarking On All Uploaded Audio, Document, Image and Video Files
+Automatic HASH File Integrity Checking Upon Every Reload of The Web Page Document
+Automatically Re-Installs Individual Application Modules and Individual System Components If Any File Integrity Checks Do Not Match The Master Database HASH Integrity Entries
+Custom Encryption Systems Complete With Custom Encryption Mathematics
+Expert Account Authentication System With Account Authorization Tokens; Account Credentials Reset By S.M.S. Text, Electronic Mail Message, Combination Lock, Pictographs; Account Recovery Options; Account Authorization Revokation Options and More...
+Support For Custom Transport-Layer-Security Libraries With Custom Encryption Mathematics, Custom Secure-Socket-Layer Encryption Libraries With Custom Mathematics and More...
+
+~ INTERFACE FEATURES
+Interfaces With Custom Written LineageOS / CyanogenMod Application
+Interfaces With Custom Written Google Android AOSP Application
+Interfaces With Custom Written Apple iOS Swift Application
+Interfaces With Custom Written Nokia KaiOS Application
+Interfaces With Custom Written C++ Desktop Application For Use On: Microsoft Windows, Apple OS and Linux
+Interfaces With Smart Glasses and Smart Glasses Camera For Encrypted and Non-Encrypted Live Voice and Video Recording and Communications
+Interfaces With Smart Glasses and Smart Glasses Camera For Encrypted and Non-Encrypted Live Voice and Video Recording and Communications
+Infinitely Expandable With Custom Application Modules
+
+~ ORGNIZATIONAL FEATURES
+Automatically Organizes All Uploaded Data
+Infinitely Adaptable and Infinitely Expandable
+Application Market To Find and Install New Application Modules By Using GIT, cURL and BITS
+Expert Backpacking and Travel Application Module With Customizable Travel Input System
+
+~ ENTERTAINMENT FEATURES
+Video Game Console Emulator With Support For: Nintendo, Super Nintendo, Nintendo 64, SEGA Genesis, SEGA GameGear, HTML5 Canvas Video Games and More -- Play Any Video Game From The Supported Video Game Consoles Directly From The Web Browser
+Download Application Module For Downloading: 144P/i, 240P/i, 480P/i, 540P/i, 720P/i, 1080P/i, 1440P/i, 2K, 4K, 8K, 16K Movies and Super High Definition Movies and Stereo-Scopic 3D Movies For Free and Directly To The Web Server Itself On-The-Go
+Simplistic and Easy-To-Use HD Media Player With Advanced Video Compression Programming
+Plays Music Directly From The Web Browser And Continues Playing The Music In The Background When Away From The Window and When The Screen Is Off, On: iOS, Android OS, Linux Mobile OS
+
+~ COMMUNICATIONS FEATURES
+WebRTC VoIP Phone Calling
+Live Video Profile Recording System Similar To Twitter and Facebook
+Searchable Profile Wall Feature Named: Cerberus-Streams That Is Similar To a Facebook Wall and a Twitter Feed
+Expert Dynamic Profile System With Media Galleries, Wall Streams, Encrypted and Non-Encrypted Instant Messenger With Live Voice and Video Chat, Friends System With Customizable Friend Categories: Family, Acquantances, Short Term Friends, Long Term Friends, Media Gallery and Post Visibility Restrictions, and more
+Emergency Management System ( E.M.S. ) With One Click Mass S.M.S. / M.M.S. Notification That Reports The Exact G.P.S. Coordinates, The Emergency Contacts, The Emergency Medical Information and The Device Details With Live Video Chat Link To Every Phone Number Listed On The Profile ( E.M.S. ) System
+~ DISPLAY AND RENDERING FEATURES
+100% Modular With Unix-Like Appearance
+100% Custom Graphics and Graphical Art Work
+Automatically Resizes Itself To Any Electronic Device Display Resolution With Percentages and Pixel Density: 144P/i, 240P/i, 480P/i, 540P/i, 720P/i, 1080P/i, 1440P/i, 2K, 4K, 8K, 16K
+Automatically Detects Network Connection Speed To Render The Graphical-User-Interface In Different Video Resolutions: 144P/i ( 1g, 2g and 3g Mobile Cell Phones With Flip Phone Screen and Satellite Radio Cell Phones ), 240P/i, 480P/i, 540P/i, 720P/i, 1080P/i, 1440P/i, 2K, 4K, 8K, 16K
+HD 720p/i, 1080p/i, 1440P/i, 2K, 4K, 8K and 16K Resolution Video Themes With Advanced Video Compression Programming
+Ultra-Fast Lite Theme <2Kilo-Bytes In File Size That Loads In 144P Video Resolution On Any 1G, 2G and 3G Mobile Flip Phone With 144P Video Calling Capability For 2G and 3G Mobile Cell Phones
+
+~ TRACKING FEATURES
+Drive and Log Feature - Line-By-Line G.P.S. Logs Every 1 - 2 Seconds of Movement In Vehicle Stored Within User Profile and Viewable By Public, Friends, Family or Hidden
+Global-Positioning-System Coordinates: Longitude, Latitude and Altitude In X, Y and Z Logging System Every 2 Seconds
+Geographical-Localization-of-Objects Identification System
+Custom Facial Recognition System With Smart Glasses By Using Reverse-Image Search Across 27 Different Search APIs
+
+~ EASE-OF-USE AND MANAGEMENT FEATURES
+Extremely Simplistic and Easy-To-Use
+Expert Administration and Moderation System
+Quickly Make Custom Web Pages
+Automatically Updates The Entire System From The Official GITHub By Using GIT, cURL, BITS and other Built-In Programming Code Functions
+Automatic and Manual Kernel File Upgrading and Downgrading
+Built-In Expert Travel and Backpacking System With Tickets and Documents Tracking
+~ EXPANDABILITY FEATURES
+Easy-To-Make Custom Theme System With C++ Theme Making Application
+More..
+
+~ OFFICIAL SOCIAL MEDIA ACCOUNTS
+Official GITHub: https://www.GITHub.com/ImmolatedSword
+Official GITHub: https://www.GITHub.com/OfficialCCMS
+Official GITHub: https://www.GITHub.com/CerberusCMS6
+Official Twitter // X: https://www.Twitter.com/ImmolatedSword
+Official Twitter // X: https://www.Twitter.com/OfficialCCMS
+Official Twitter // X: - https://www.Twitter.com/CerberusCMS6
+Official Rumble Video Channel: https://www.Rumble.com/ImmolatedSword
+Official Real World Demonstration Video With Smart Glasses: https://rumble.com/v6vyhzu-2024-09-11-cerberuscms-4-rwvd-smart-glasses-and-travel-gear-in-california-v.html
